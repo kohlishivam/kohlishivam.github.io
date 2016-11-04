@@ -360,11 +360,11 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes htmlandcss {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes php {
   0%   { width: 0px;  }
@@ -372,24 +372,24 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes Django {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 88%;  }
 }
 @-moz-keyframes PYTHON {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-moz-keyframes C {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 88%;  }
 }
 
 @-webkit-keyframes htmlandcss {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes javascript {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes php {
   0%   { width: 0px;  }
@@ -397,15 +397,15 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes Django {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 88%;  }
 }
 @-webkit-keyframes PYTHON {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 80%;  }
 }
 @-webkit-keyframes C {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 88%;  }
 }
 
 
