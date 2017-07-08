@@ -361,15 +361,10 @@ ul#nav li.current a { color: #F06000; }
     -moz-animation: MYSQL 2s ease;
     -webkit-animation: MYSQL 2s ease;
 }
-.NEO {
-    width: 40%;
-    -moz-animation: NEO 2s ease;
-    -webkit-animation: NEO 2s ease;
-}
-.SWIFT {
-    width: 70%;
-    -moz-animation: SWIFT 2s ease;
-    -webkit-animation: SWIFT 2s ease;
+.ML {
+    width: 50%;
+    -moz-animation: ML 2s ease;
+    -webkit-animation: ML 2s ease;
 }
 
 
@@ -410,13 +405,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 77%;  }
 }
-@-moz-keyframes NEO {
+@-moz-keyframes ML {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
-}
-@-moz-keyframes SWIFT {
-  0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 50%;  }
 }
 
 
@@ -457,13 +448,9 @@ ul#nav li.current a { color: #F06000; }
   0%   { width: 0px;  }
   100% { width: 77%;  }
 }
-@-webkit-keyframes NEO {
+@-webkit-keyframes ML {
   0%   { width: 0px;  }
-  100% { width: 40%;  }
-}
-@-webkit-keyframes SWIFT {
-  0%   { width: 0px;  }
-  100% { width: 70%;  }
+  100% { width: 50%;  }
 }
 
 
